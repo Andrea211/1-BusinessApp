@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">RETRO CAFE</string>
+    <string name="address">Piwna 5/6 Gdańsk</string>
+    <string name="hours">10:00 - 23:00</string>
+    <string name="number">665 217 965</string>
+
+    <string name="house_icon">house icon</string>
+    <string name="clock_icon">clock icon</string>
+    <string name="phone_icon">phone icon</string>
+
+</resources>

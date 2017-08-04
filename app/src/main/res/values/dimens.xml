@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Size of the text RetroCafe. -->
+    <dimen name="retroTextSize">50sp</dimen>
+
+    <!-- Size of used padding. -->
+    <dimen name="paddingSmall">8dp</dimen>
+    <dimen name="paddingBig">16dp</dimen>
+
+    <dimen name="margin">20dp</dimen>
+    <dimen name="iconSize">50dp</dimen>
+    <dimen name="viewWidth">15dp</dimen>
+
+</resources>
